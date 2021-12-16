@@ -1,6 +1,6 @@
 name: DingRSS
 
-on:
+on:push
   schedule:
     - cron: '*/5 * * * *'
 
