@@ -1,6 +1,8 @@
 name: DingRSS
 
-on: push
+on:
+  schedule:
+    - cron: '0/5 * * * *'
 
 jobs:
   build:
