@@ -30,11 +30,11 @@ cache:
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=13794
   https://rss.app/feeds/6CdwFABKfRMpC1Ey.xml:
-    latest_id: 84bd9ccf747df873051668ca53ce9e93
+    latest_id: 3c2fcbfc5629fd066e9a1b3340a0f5e0
   https://rss.app/feeds/78uwSKKfAPO7tDhq.xml:
     latest_id: https://rss.app
   https://rss.app/feeds/HNXUPhcJqWeHtLiv.xml:
-    latest_id: 84bd9ccf747df873051668ca53ce9e93
+    latest_id: 3c2fcbfc5629fd066e9a1b3340a0f5e0
   https://rss.app/feeds/zuhfaPjemocVENKW.xml:
     latest_id: https://shenaniganslabs.io/2021/06/21/Shadow-Credentials.html
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:
